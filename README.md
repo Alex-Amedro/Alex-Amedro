@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=900&size=40&duration=3000&pause=100&color=10FF09&center=true&multiline=true&width=700&height=100&lines=HI+%F0%9F%91%8B%2C+WELCOME+TO+MY+PROFIL+;I'm+Alexandre+Amedro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=900&size=40&duration=3000&pause=100&color=10FF09&center=true&multiline=true&width=900&height=100&lines=HI+%F0%9F%91%8B%2C+WELCOME+TO+MY+PROFIL+;I'm+Alexandre+Amedro)](https://git.io/typing-svg)
