@@ -2,4 +2,4 @@
 _________________________________________________________________________________________
 <h1 align="center">Master's student in Imaging and Multimedia 🖥️</h1>
 
-<h2 align="center">Computer Vision - Image Processing - Multimedia Data Analysis - Artificial Intelligence - Computational Neuroscience - Human-Computer Interaction</h2>
+<h2 align="center">Computer Vision - Image Processing - Multimedia Data Analysis - AI Agent 🤖 - Computational Neuroscience - Human-Computer Interaction</h2>
